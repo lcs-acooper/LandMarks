@@ -16,6 +16,7 @@
 		DB6DD20E2B655881003E8FA1 /* ListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB6DD20D2B655881003E8FA1 /* ListItemView.swift */; };
 		DB6DD2102B6558DE003E8FA1 /* GalleryViewItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB6DD20F2B6558DE003E8FA1 /* GalleryViewItem.swift */; };
 		DB6DD2122B655929003E8FA1 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB6DD2112B655929003E8FA1 /* GalleryView.swift */; };
+		DB6DD2142B655AEE003E8FA1 /* RecommendationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB6DD2132B655AEE003E8FA1 /* RecommendationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		DB6DD20D2B655881003E8FA1 /* ListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemView.swift; sourceTree = "<group>"; };
 		DB6DD20F2B6558DE003E8FA1 /* GalleryViewItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryViewItem.swift; sourceTree = "<group>"; };
 		DB6DD2112B655929003E8FA1 /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
+		DB6DD2132B655AEE003E8FA1 /* RecommendationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				DB6DD20D2B655881003E8FA1 /* ListItemView.swift */,
 				DB6DD20F2B6558DE003E8FA1 /* GalleryViewItem.swift */,
 				DB6DD2112B655929003E8FA1 /* GalleryView.swift */,
+				DB6DD2132B655AEE003E8FA1 /* RecommendationView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				DB6DD2122B655929003E8FA1 /* GalleryView.swift in Sources */,
 				DB6DD20E2B655881003E8FA1 /* ListItemView.swift in Sources */,
 				DB6DD20C2B6556A7003E8FA1 /* ListView.swift in Sources */,
+				DB6DD2142B655AEE003E8FA1 /* RecommendationView.swift in Sources */,
 				DB6DD2102B6558DE003E8FA1 /* GalleryViewItem.swift in Sources */,
 				DB6DD20A2B6554AF003E8FA1 /* LandMark.swift in Sources */,
 				DB6DD1F82B6552BD003E8FA1 /* LandMarksApp.swift in Sources */,
